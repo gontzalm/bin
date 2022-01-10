@@ -1,3 +1,3 @@
-# scripts
+# bin
 
 Useful scripts I use personally.
