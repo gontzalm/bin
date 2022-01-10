@@ -1,3 +1,3 @@
 # bin
 
-Useful scripts I use personally.
+Scripts I use personally.
