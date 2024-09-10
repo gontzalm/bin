@@ -1,5 +1,0 @@
-#!/bin/bash
-
-source=$(basename $PWD)
-poetry run coverage run --source=${source/-/_} -m pytest
-poetry run coverage report
